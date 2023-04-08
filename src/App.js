@@ -10,7 +10,7 @@ export default function App() {
         <a
           href="https://github.com/nikabe10/my-weather-app-react"
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
