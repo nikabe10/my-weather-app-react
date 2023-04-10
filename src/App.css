@@ -1,0 +1,14 @@
+.App footer {
+  text-align: center;
+  font-family: sans-serif;
+  color: #5f5f5f;
+}
+
+.App a {
+  text-decoration: none;
+  color: #5f5f5f;
+}
+
+.App a:hover {
+  color: #ff7d79;
+}
