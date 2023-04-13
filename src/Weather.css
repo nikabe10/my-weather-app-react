@@ -52,7 +52,7 @@
 .Weather canvas {
   height: 64px;
   width: 64px;
-  margin-right: 20px;
+  margin: 10px auto;
   display: inline-block;
   color: #fff;
 }
