@@ -50,8 +50,6 @@
 }
 
 .Weather canvas {
-  height: 64px;
-  width: 64px;
   margin: 10px auto;
   display: inline-block;
   color: #fff;
